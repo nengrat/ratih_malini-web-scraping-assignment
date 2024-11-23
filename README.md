@@ -34,3 +34,8 @@ Push ke GitHub
    - ![1  membuat repository di lokal](https://github.com/user-attachments/assets/fd2fdc65-d5b6-4e36-b5e4-cd98d7be5f27)
    - ![2  push ke github](https://github.com/user-attachments/assets/451b5859-f124-40a1-a0ba-685a783795cf)
 
+
+Hasil Pekerjaan :  
+   - ![hasil](https://github.com/user-attachments/assets/25aaa416-75d5-439f-bec3-16fff0dfa775)
+
+
